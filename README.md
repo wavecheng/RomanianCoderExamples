@@ -1,4 +1,4 @@
-# Romanian Coder Java Examples
+# Romanian Coder Java Examples (deploy to dedicated Tomcat Server)
 
 - Spring Boot 101: BookingDemo project
 - Create a simple UDP unicast client-server
